@@ -1,5 +1,6 @@
 .env
+usome.txt
 node_modules
+package-lock.json
 photos
 credentials.json
-

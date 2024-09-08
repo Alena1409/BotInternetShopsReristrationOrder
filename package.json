@@ -1,22 +1,9 @@
 {
-  "name": "bottg",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon index.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "@grammyjs/files": "^1.1.1",
+    "@google-cloud/local-auth": "^3.0.1",
+    "axios": "^1.7.7",
     "dotenv": "^16.4.5",
-    "google-spreadsheet": "^4.1.2",
-    "googleapis": "^140.0.1",
-    "grammy": "^1.28.0",
-    "node-telegram-bot-api": "0.66.0",
-    "nodemon": "^3.1.4"
+    "googleapis": "^144.0.0",
+    "grammy": "^1.29.0"
   }
 }
